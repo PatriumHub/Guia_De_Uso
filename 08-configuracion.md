@@ -20,7 +20,7 @@ Disponible para todos los usuarios.
 
 - Menú: **Personas**, **Empresas** y **Configuración** (solo perfil).
 - Al entrar, va a Empresas o Personas según lo que tenga asignado.
-- Ve fichas, tabs, estados y proyección, movimientos, etc., pero **sin botones de escritura**.
+- Ve fichas, tabs, estados y proyección, clientes (servicios), movimientos, etc., pero **sin botones de escritura**.
 - Si intenta una URL de admin o un POST de escritura, el sistema lo redirige.
 
 ### Administrador

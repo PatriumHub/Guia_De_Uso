@@ -42,6 +42,15 @@ Sí, en Presupuestos, Cuentas y Movimientos: clic en el título de la columna.
 En la empresa → pestaña **Estados y proyección**. Es planificación (no mueve saldos).  
 Si la empresa es de **productos**, cargás solo el total de ingresos por mes (sin clientes). Ver [Personas y empresas](02-personas-y-empresas.md).
 
+## ¿Dónde cargo contacto, contrato o docs de un cliente?
+
+En empresas de **servicios** → pestaña **Clientes** → ficha del cliente.  
+La lista y los montos vienen de **Estados y proyección**; acá vas el contacto, activo/inactivo, contrato PDF y documentos extra. Ver [Personas y empresas](02-personas-y-empresas.md).
+
+## ¿Puedo cambiar el tipo de negocio (servicios / productos) después?
+
+No. Se elige solo al **crear** la empresa. Si te equivocaste, hay que crear otra con el tipo correcto.
+
 ## ¿Cómo creo otro usuario o limito qué ve?
 
 **Configuración → Usuarios** (solo admin). Rol limitado + tilde de personas/empresas. Ese usuario solo **ve** lo asignado (sin crear/editar/borrar, sin Inicio ni Dashboard). Ver [Configuración](08-configuracion.md).
@@ -65,9 +74,10 @@ No. Es una herramienta de **control patrimonial y liquidez** para vos. No es un 
 1. Revisar saldos de **Cuentas** (banco + MP).  
 2. Liquidar o omitir **Presupuestos** del mes.  
 3. Actualizar **Estados y proyección** de cada empresa si aplica.  
-4. Sync de **WooCommerce** si aplica.  
-5. **Capturar snapshot** en el Dashboard.  
-6. Mirar neto personal vs consolidado.
+4. En servicios: revisar fichas en **Clientes** (estado, contratos).  
+5. Sync de **WooCommerce** si aplica.  
+6. **Capturar snapshot** en el Dashboard.  
+7. Mirar neto personal vs consolidado.
 
 ---
 

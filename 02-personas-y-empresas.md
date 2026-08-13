@@ -38,8 +38,8 @@ Se borran también cuentas, movimientos y demás datos de esa persona. No se pue
 
 1. **Empresas** → nueva.
 2. Nombre / razón social / rubro si aplica.
-3. Elegí **Tipo de negocio**:
-   - **Servicios** — Estados y proyección por cliente (como Soup IT).
+3. Elegí **Tipo de negocio** (solo se elige al crear; después no se cambia):
+   - **Servicios** — Estados y proyección por cliente + pestaña **Clientes** (como Soup IT).
    - **Productos** — solo total de ingresos por mes (como HomeSpot), sin lista de clientes.
 4. Guardá y entrá al resumen.
 
@@ -49,7 +49,7 @@ Se borran también cuentas, movimientos y demás datos de esa persona. No se pue
 2. Abajo, sección roja **Eliminar empresa**.
 3. Escribí el nombre exacto y confirmá.
 
-Se borran cuentas, movimientos, estados y proyección, integraciones, etc. No se puede deshacer.
+Se borran cuentas, movimientos, estados y proyección, fichas de clientes, integraciones, etc. No se puede deshacer.
 
 ### Resumen de empresa (qué mirar)
 
@@ -57,6 +57,21 @@ Se borran cuentas, movimientos, estados y proyección, integraciones, etc. No se
 - Bancos / líquido, saldo Mercado Pago, stock.
 - Ventas WooCommerce y pedidos e-commerce (si hay sync).
 - Formulario de **Movimiento de caja** (ingreso/egreso a una cuenta).
+
+### Clientes (solo empresas de servicios)
+
+Pestaña de la empresa de **servicios**. La lista y los montos salen de **Estados y proyección**; acá completás la ficha operativa.
+
+1. Entrá a la empresa → **Clientes**.
+2. Vas a ver KPIs (activos / inactivos / total) y la tabla.
+3. Abrí un cliente → **Ver** o **Ficha** para cargar:
+   - Contacto, email, teléfono y notas.
+   - Estado **activo** / **inactivo**.
+   - **Contrato** (solo PDF).
+   - Documentos extra (PDF, imágenes u Office).
+4. Para agregar o renombrar clientes o cambiar montos: andá a **Estados y proyección**, editá las filas y **Guardá**. Al volver a Clientes se sincroniza.
+
+Los usuarios limitados (viewer) pueden ver, pero no editar ni subir archivos.
 
 ### Participaciones (dueños)
 
@@ -89,9 +104,9 @@ Sirve para planificar ingresos y costos mes a mes, con totales al instante — n
 6. El **Resumen mensual** se calcula solo.
 7. Ajustá el **% de ahorro** si corresponde y tocá **Guardar** (o Ctrl+S).
 
-Podés sumar clientes (servicios), costos o años. Si cambiás el tipo de negocio en Editar empresa, usá **Restablecer** en esta pestaña para regenerar la plantilla.
+Podés sumar clientes (servicios), costos o años. En empresas de servicios, los nombres de cliente de esta tabla alimentan la pestaña **Clientes**.
 
-Cada empresa nueva recibe su libro automáticamente según el tipo elegido.
+Cada empresa nueva recibe su libro automáticamente según el tipo elegido al crear.
 
 ---
 

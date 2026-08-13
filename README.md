@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v1.2)
+# PatriumHub — Guía de uso (v1.3)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.
@@ -19,6 +19,7 @@ Pensalo así:
 | Entradas y salidas de plata | **Movimientos** |
 | Gastos fijos del mes | **Presupuestos** |
 | Proyección de ingresos/costos | Empresa → **Estados y proyección** (servicios o productos) |
+| Fichas de clientes (servicios) | Empresa → **Clientes** (contacto, contrato PDF, docs) |
 | Tu usuario y permisos | **Configuración** (perfil / usuarios) |
 | Vista general | **Dashboard** e **Inicio** |
 
@@ -42,7 +43,7 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 ## Empezá por acá (orden recomendado)
 
 1. [Primeros pasos](01-primeros-pasos.md) — login y alta inicial  
-2. [Personas y empresas](02-personas-y-empresas.md) — incluye **Estados y proyección**  
+2. [Personas y empresas](02-personas-y-empresas.md) — incluye **Estados y proyección** y **Clientes**  
 3. [Cuentas y movimientos](03-cuentas-y-movimientos.md)  
 4. [Patrimonio (activos, pasivos, etc.)](04-patrimonio.md)  
 5. [Presupuestos](05-presupuestos.md)  
@@ -61,7 +62,8 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 - Una **cuenta** (banco, Mercado Pago, efectivo) siempre lleva el saldo. Los movimientos cambian ese saldo.  
 - Los **presupuestos pendientes** cuentan como pasivo hasta que los pagás u omitís.  
 - **Estados y proyección** es planificación de la empresa (no mueve saldos de cuentas).
+- En empresas de **servicios**, la pestaña **Clientes** usa esa proyección para la lista/montos; la ficha (contacto, contrato, docs) se completa aparte.
 
 ---
 
-*Versión 1.2 · PatriumHub*
+*Versión 1.3 · PatriumHub*
