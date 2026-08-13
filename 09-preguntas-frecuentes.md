@@ -37,6 +37,23 @@ Es esperado: editar importe/tipo/cuenta **recalcula** el saldo.
 
 Sí, en Presupuestos, Cuentas y Movimientos: clic en el título de la columna.
 
+## ¿Dónde cargo la proyección de clientes / costos de la empresa?
+
+En la empresa → pestaña **Estados y proyección**. Es planificación (no mueve saldos).  
+Si la empresa es de **productos**, cargás solo el total de ingresos por mes (sin clientes). Ver [Personas y empresas](02-personas-y-empresas.md).
+
+## ¿Cómo creo otro usuario o limito qué ve?
+
+**Configuración → Usuarios** (solo admin). Rol limitado + tilde de personas/empresas. Ese usuario solo **ve** lo asignado (sin crear/editar/borrar, sin Inicio ni Dashboard). Ver [Configuración](08-configuracion.md).
+
+## ¿Cómo borro una persona o empresa?
+
+**Editar** → abajo **Eliminar** → escribí el nombre exacto. Se va todo lo asociado. Ver [Personas y empresas](02-personas-y-empresas.md).
+
+## ¿Por qué personal y consolidado no dan igual?
+
+En personal solo entra tu %. La diferencia suele ser la parte de empresas que no te pertenece (ej. el otro 50 % de Soup IT).
+
 ## ¿La app reemplaza a mi contador?
 
 No. Es una herramienta de **control patrimonial y liquidez** para vos. No es un sistema contable impositivo.
@@ -47,9 +64,10 @@ No. Es una herramienta de **control patrimonial y liquidez** para vos. No es un 
 
 1. Revisar saldos de **Cuentas** (banco + MP).  
 2. Liquidar o omitir **Presupuestos** del mes.  
-3. Sync de **WooCommerce** si aplica.  
-4. **Capturar snapshot** en el Dashboard.  
-5. Mirar neto personal vs consolidado.
+3. Actualizar **Estados y proyección** de cada empresa si aplica.  
+4. Sync de **WooCommerce** si aplica.  
+5. **Capturar snapshot** en el Dashboard.  
+6. Mirar neto personal vs consolidado.
 
 ---
 

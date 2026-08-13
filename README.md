@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v1)
+# PatriumHub — Guía de uso (v1.2)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.
@@ -7,7 +7,7 @@ No es documentación técnica: es **qué hacer** y **en qué orden**.
 
 ## ¿Qué es PatriumHub?
 
-Una app para ver y cargar tu **patrimonio**: personas, empresas, cuentas, deudas, presupuestos, ventas de la tienda (WooCommerce) y cómo evoluciona todo en el tiempo.
+Una app para ver y cargar tu **patrimonio**: personas, empresas, cuentas, deudas, presupuestos, proyección de negocios, ventas de la tienda (WooCommerce) y cómo evoluciona todo en el tiempo.
 
 Pensalo así:
 
@@ -18,6 +18,8 @@ Pensalo así:
 | Plata en bancos, MP, efectivo | **Cuentas** |
 | Entradas y salidas de plata | **Movimientos** |
 | Gastos fijos del mes | **Presupuestos** |
+| Proyección de ingresos/costos | Empresa → **Estados y proyección** (servicios o productos) |
+| Tu usuario y permisos | **Configuración** (perfil / usuarios) |
 | Vista general | **Dashboard** e **Inicio** |
 
 ---
@@ -31,16 +33,16 @@ Pensalo así:
 | **Patrimonio** ▾ | Personas, empresas, cuentas, activos varios, propiedades, cobrables, pasivos, inventario |
 | **Presupuestos** | Gastos del mes y liquidación |
 | **Movimientos** | Listado e edición de ingresos/egresos/transferencias |
-| **Tu nombre** ▾ | Configuración y salir |
+| **Tu nombre** ▾ | Configuración, Integraciones y salir |
 
-También podés **Ocultar cifras** (útil si alguien mira la pantalla).
+También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el teléfono, abrí el menú con el ícono de tres líneas.
 
 ---
 
 ## Empezá por acá (orden recomendado)
 
 1. [Primeros pasos](01-primeros-pasos.md) — login y alta inicial  
-2. [Personas y empresas](02-personas-y-empresas.md)  
+2. [Personas y empresas](02-personas-y-empresas.md) — incluye **Estados y proyección**  
 3. [Cuentas y movimientos](03-cuentas-y-movimientos.md)  
 4. [Patrimonio (activos, pasivos, etc.)](04-patrimonio.md)  
 5. [Presupuestos](05-presupuestos.md)  
@@ -55,9 +57,11 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla).
 
 - **Consolidado** = suma de todo (sin contar dos veces lo mismo por participaciones).  
 - **Personal** = lo tuyo + el % de las empresas donde participás.  
+  Si personal y consolidado no coinciden, la diferencia suele ser la parte de las empresas que **no** te pertenece (ej. el 50 % de Soup IT).  
 - Una **cuenta** (banco, Mercado Pago, efectivo) siempre lleva el saldo. Los movimientos cambian ese saldo.  
-- Los **presupuestos pendientes** cuentan como pasivo hasta que los pagás u omitís.
+- Los **presupuestos pendientes** cuentan como pasivo hasta que los pagás u omitís.  
+- **Estados y proyección** es planificación de la empresa (no mueve saldos de cuentas).
 
 ---
 
-*Versión 1 · PatriumHub*
+*Versión 1.2 · PatriumHub*
