@@ -52,6 +52,25 @@ Cada una suma solo su parte al patrimonio personal; en consolidado no se duplica
 Menú **Proyecciones**: consolida personas y empresas del año (solo lectura).  
 La carga es en cada ficha. Ver [Proyecciones](10-proyecciones.md).
 
+## ¿Qué es la “carga de egresos”?
+
+En proyecciones (persona y menú consolidado): qué **porcentaje de los ingresos** se llevan los **egresos de la planilla**.  
+El anillo y las barras también muestran el **ahorro** (meta %) y el **disponible neto** (lo que queda después).  
+No son los gastos fijos de Presupuestos.  
+En la **ficha de persona** además se parte por **categoría** (nombre de cada línea de egreso) con monto y %.  
+Ver [Proyecciones](10-proyecciones.md).
+
+## ¿Qué es el “gasto diario máximo”?
+
+En cada mes: **disponible neto de ese mes ÷ días de ese mes** (28/29/30/31).  
+El disponible neto ya **descuenta el ahorro** (balance − meta de ahorro).  
+La **referencia ÷ 30** (promedio mensual ÷ 30) es solo orientativa en el gráfico.  
+Ver [Proyecciones](10-proyecciones.md).
+
+## ¿Qué muestran los % bajo los KPIs de Inicio / Dashboard?
+
+Segunda fila bajo neto, activos, pasivos y liquidez: cada valor como **% de los activos totales** (mismo denominador). En vista Liquidez las etiquetas se adaptan.
+
 ## ¿Dónde cargo la proyección de clientes / costos de la empresa?
 
 En la empresa → pestaña **Estados y proyección**. Es planificación (no mueve saldos).  

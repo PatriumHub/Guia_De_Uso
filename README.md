@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v1.4)
+# PatriumHub — Guía de uso (v1.9)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.
@@ -31,9 +31,9 @@ Pensalo así:
 
 | Botón | Para qué sirve |
 |-------|----------------|
-| **Inicio** | Resumen rápido |
-| **Dashboard** | Gráficos, snapshots, evolución |
-| **Proyecciones** | Flujo y ahorro consolidados del año (solo lectura) |
+| **Inicio** | Resumen rápido (+ % de cada KPI sobre activos) |
+| **Dashboard** | Gráficos, snapshots, evolución (+ % sobre activos) |
+| **Proyecciones** | Flujo, ahorro, carga de egresos y gasto diario máximo (solo lectura) |
 | **Patrimonio** ▾ | Personas, empresas, cuentas, activos, propiedades, cobrables, pasivos, inventario |
 | **Presupuestos** | Gastos del mes y liquidación |
 | **Movimientos** | Listado e edición de ingresos/egresos/transferencias |
@@ -72,4 +72,4 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 
 ---
 
-*Versión 1.4 · PatriumHub*
+*Versión 1.9 · PatriumHub*

@@ -10,6 +10,8 @@ Vistas rápidas:
 - **Personal** — patrimonio personal. Ahí elegís **Todas juntas** o una persona concreta.  
 - **Liquidez** — foco en plata líquida vs el resto.
 
+Debajo de los 4 KPIs principales (consolidado / liquidez / Inicio) ves otra fila: **% de cada valor sobre los activos totales** (neto, activos, pasivos y liquidez respecto del mismo total de activos).
+
 En Personal podés filtrar por persona, moneda y rango de fechas (movimientos/flujo).
 
 ### Capturar snapshot
@@ -34,6 +36,7 @@ Con dos o más, ves la diferencia entre capturas.
 ## Inicio
 
 Resumen compacto de totales y accesos.  
+Debajo de neto / activos / pasivos / liquidez: **% sobre activos totales**.  
 No reemplaza al Dashboard para análisis.
 
 ## Exportar

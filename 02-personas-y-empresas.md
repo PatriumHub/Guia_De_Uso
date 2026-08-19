@@ -34,8 +34,11 @@ Pestaña para planificar **ingresos, egresos y ahorro** mes a mes (pasados o fut
 
 1. Entrá a la persona → **Proyecciones**.
 2. Cargá fuentes de ingreso (sueldo, honorarios, etc.) y gastos por mes; ajustá el % de ahorro.
-3. El sistema calcula balance, ahorro, disponible y **promedio mensual** (disponible neto anual ÷ 12), y lo compara con tu **neto, liquidez y pasivos reales**.
-4. En **Resumen** ves un resumen rápido de la proyección del año activo.
+3. Arriba ves el tablero: neto real, KPIs del año, **promedio mensual** (disponible neto anual ÷ 12) y el **flujo del año** (ingresos/egresos/balance a lo ancho).
+4. Debajo está la **planilla** editable (ingresos, egresos, resumen).
+5. Al final, **Carga de egresos**: anillo y barras con egresos, **ahorro** y **disponible neto** (verde); más **por categoría** (cada nombre de egreso × % del ingreso).
+6. También ves **Gasto diario máximo**: 12 cards = disponible neto de ese mes (tras ahorro) ÷ días; el gráfico trae una línea de referencia (promedio mensual ÷ 30).
+7. En **Resumen** ves un resumen rápido de la proyección del año activo.
 
 No mueve saldos de cuentas: es planificación.  
 La vista del menú **Proyecciones** suma esta planilla con las de las empresas. Ver [Proyecciones consolidadas](10-proyecciones.md).
