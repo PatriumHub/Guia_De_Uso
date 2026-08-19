@@ -44,6 +44,7 @@ Si entrás a un mes **adelantado** (ej. septiembre estando en agosto), se genera
 ## Gastos agrupados
 
 Lista por entidad con totales.  
+En cada grupo ves la tabla (ordená con clic en los títulos), **Eliminar grupo**, y dos gráficos: **composición** y **ranking** (mayor a menor %).  
 Ahí podés **editar** o **eliminar** un gasto del grupo (deja de regenerarse; los pagos ya hechos se mantienen).
 
 ## Relación con Pasivos
