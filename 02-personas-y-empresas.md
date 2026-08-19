@@ -16,7 +16,7 @@
 
 ### En la ficha de una persona
 
-Tenés pestañas: Resumen, Cuentas, Activos varios, Pasivos, Propiedades, Cobrables, Movimientos, Participaciones.
+Tenés pestañas: Resumen, **Proyecciones**, Cuentas, Activos varios, Pasivos, Propiedades, Cobrables, Movimientos, Participaciones.
 
 Arriba podés **Capturar snapshot** solo de esa persona.
 
@@ -27,6 +27,18 @@ Arriba podés **Capturar snapshot** solo de esa persona.
 3. Escribí el nombre exacto y confirmá.
 
 Se borran también cuentas, movimientos y demás datos de esa persona. No se puede deshacer.
+
+### Proyecciones (persona)
+
+Pestaña para planificar **ingresos, egresos y ahorro** mes a mes (pasados o futuros).
+
+1. Entrá a la persona → **Proyecciones**.
+2. Cargá fuentes de ingreso (sueldo, honorarios, etc.) y gastos por mes; ajustá el % de ahorro.
+3. El sistema calcula balance, ahorro, disponible y **promedio mensual** (disponible neto anual ÷ 12), y lo compara con tu **neto, liquidez y pasivos reales**.
+4. En **Resumen** ves un resumen rápido de la proyección del año activo.
+
+No mueve saldos de cuentas: es planificación.  
+La vista del menú **Proyecciones** suma esta planilla con las de las empresas. Ver [Proyecciones consolidadas](10-proyecciones.md).
 
 ## Empresas
 
@@ -106,7 +118,8 @@ Sirve para planificar ingresos y costos mes a mes, con totales al instante — n
 
 Podés sumar clientes (servicios), costos o años. En empresas de servicios, los nombres de cliente de esta tabla alimentan la pestaña **Clientes**.
 
-Cada empresa nueva recibe su libro automáticamente según el tipo elegido al crear.
+Cada empresa nueva recibe su libro automáticamente según el tipo elegido al crear.  
+Esa planilla también entra en el menú **Proyecciones** (consolidado). Ver [Proyecciones](10-proyecciones.md).
 
 ---
 

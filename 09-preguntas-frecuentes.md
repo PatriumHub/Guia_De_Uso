@@ -17,6 +17,11 @@ Correcto en v1: todo va a una **cuenta**. El saldo se ve en **Bancos / líquido*
 
 En Presupuestos → **Revertir**. Después podés pagar de nuevo o eliminar.
 
+## Miré el presupuesto de un mes futuro y me bajó el patrimonio
+
+No debería. Solo suman a pasivos los pendientes del **mes actual y atrasados**.  
+Si ves un mes adelantado, es para planificar; el neto se actualiza cuando llegue ese mes. Refrescá Pasivos / Dashboard si quedó un dato viejo en caché del navegador.
+
 ## Quiero un gasto de una sola vez
 
 Creá el gasto, usalo el mes que haga falta, y **Eliminar** (en el mes o en Gastos agrupados) para que no se regenere.
@@ -36,6 +41,16 @@ Es esperado: editar importe/tipo/cuenta **recalcula** el saldo.
 ## ¿Puedo ordenar tablas?
 
 Sí, en Presupuestos, Cuentas y Movimientos: clic en el título de la columna.
+
+## ¿Puedo compartir una cuenta entre dos personas?
+
+Sí. En **Cuentas** → editar/crear → titularidad **Persona(s)** → marcá las personas y el %.  
+Cada una suma solo su parte al patrimonio personal; en consolidado no se duplica.
+
+## ¿Dónde veo el flujo de todas las planillas juntas?
+
+Menú **Proyecciones**: consolida personas y empresas del año (solo lectura).  
+La carga es en cada ficha. Ver [Proyecciones](10-proyecciones.md).
 
 ## ¿Dónde cargo la proyección de clientes / costos de la empresa?
 
@@ -73,11 +88,12 @@ No. Es una herramienta de **control patrimonial y liquidez** para vos. No es un 
 
 1. Revisar saldos de **Cuentas** (banco + MP).  
 2. Liquidar o omitir **Presupuestos** del mes.  
-3. Actualizar **Estados y proyección** de cada empresa si aplica.  
-4. En servicios: revisar fichas en **Clientes** (estado, contratos).  
-5. Sync de **WooCommerce** si aplica.  
-6. **Capturar snapshot** en el Dashboard.  
-7. Mirar neto personal vs consolidado.
+3. Actualizar **Proyecciones** personales y **Estados y proyección** de cada empresa si aplica.  
+4. Mirar el menú **Proyecciones** (flujo y ahorro del año).  
+5. En servicios: revisar fichas en **Clientes** (estado, contratos).  
+6. Sync de **WooCommerce** si aplica.  
+7. **Capturar snapshot** en el Dashboard.  
+8. Mirar neto personal vs consolidado.
 
 ---
 

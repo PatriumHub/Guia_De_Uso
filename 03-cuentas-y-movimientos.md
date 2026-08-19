@@ -10,16 +10,21 @@ Acá están bancos, Mercado Pago, billeteras, efectivo, etc.
 ### Crear una cuenta
 
 1. **Nueva cuenta**.
-2. Elegí **entidad** (persona o empresa).
+2. Elegí **titularidad**:
+   - **Persona(s):** podés marcar varias y repartir el % (cuenta compartida).
+   - **Empresa:** un solo dueño empresa.
 3. Nombre, tipo (Banco, Mercado Pago, Efectivo…), moneda, saldo inicial.
 4. Guardá.
+
+El saldo se reparte en el patrimonio personal según el % de cada co-titular. En consolidado la cuenta cuenta una sola vez.
 
 ### Qué ves en Cuentas
 
 - **Total en cuentas** (según moneda y filtro).
 - **Cuentas bancarias** vs **Mercado Pago**.
-- Gráficos por tipo y por entidad (y gráficos MP si hay cuentas MP).
-- Tabla con saldo; en MP puede mostrarse “retenido” si lo cargaste.
+- Gráficos por tipo y por titularidad (y gráficos MP si hay cuentas MP).
+- Tabla con saldo y columna **Titularidad** (nombres + % si está compartida).
+- En MP puede mostrarse “retenido” si lo cargaste.
 
 ### Eliminar una cuenta
 

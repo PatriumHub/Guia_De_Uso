@@ -13,7 +13,7 @@ Disponible para todos los usuarios.
 
 | Rol | Acceso |
 |-----|--------|
-| **Administrador** | Control total: Inicio, Dashboard, Patrimonio, presupuestos, movimientos, integraciones, altas/ediciones/borrados |
+| **Administrador** | Control total: Inicio, Dashboard, Proyecciones, Patrimonio, presupuestos, movimientos, integraciones, altas/ediciones/borrados |
 | **Limitado (viewer)** | Solo lectura de las **personas y empresas asignadas**. Sin Inicio ni Dashboard. No puede crear, editar ni borrar nada |
 
 ### Usuario limitado

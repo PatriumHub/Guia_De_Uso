@@ -12,7 +12,8 @@ Sirve para los **gastos fijos / costos del mes** (alquiler, luz, internet, etc.)
 | **Ítem del mes** | La cuota de este período (pendiente / pagado / omitido) |
 | **Gastos agrupados** | Todos los gastos activos, por persona o empresa |
 
-Los **pendientes** aparecen también en **Pasivos** (solo el total por entidad).
+Los **pendientes** del **mes actual y de meses atrasados** aparecen también en **Pasivos** (total por entidad).  
+Si entrás a un mes **adelantado** (ej. septiembre estando en agosto), se generan los ítems para planificar, pero **no suman a pasivos** hasta que el calendario llegue a ese mes.
 
 ## Crear un gasto
 
@@ -47,7 +48,8 @@ Ahí podés **editar** o **eliminar** un gasto del grupo (deja de regenerarse; l
 
 ## Relación con Pasivos
 
-En Pasivos ves el **total pendiente por entidad**.  
+En Pasivos ves el **total pendiente por entidad** del mes actual y atrasados.  
+Los meses futuros no aparecen ahí.  
 Para liquidar el detalle, usá **Ir a Presupuestos** / **Ver**.
 
 ---

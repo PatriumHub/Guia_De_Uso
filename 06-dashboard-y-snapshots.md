@@ -7,10 +7,10 @@ Menú **Dashboard**.
 Vistas rápidas:
 
 - **Consolidado** — todo junto, sin doble conteo por participaciones.  
-- **Personal** — tu patrimonio (también hay un dashboard personal más simple).  
+- **Personal** — patrimonio personal. Ahí elegís **Todas juntas** o una persona concreta.  
 - **Liquidez** — foco en plata líquida vs el resto.
 
-Podés filtrar por entidad, moneda y rango de fechas (movimientos/flujo).
+En Personal podés filtrar por persona, moneda y rango de fechas (movimientos/flujo).
 
 ### Capturar snapshot
 
@@ -42,4 +42,4 @@ En el Dashboard podés exportar la serie a CSV (evolución).
 
 ---
 
-← [Presupuestos](05-presupuestos.md) · [Índice](README.md) · [WooCommerce](07-woocommerce-e-integraciones.md) →
+← [Presupuestos](05-presupuestos.md) · [Índice](README.md) · [Proyecciones](10-proyecciones.md) →

@@ -6,8 +6,16 @@ Todo esto está bajo **Patrimonio** ▾.
 
 Cosas que no son “cuenta de banco”: vehículos, equipos, inversiones, etc.
 
-1. Alta con entidad, valor actual, moneda.
-2. Marcalo “incluir en patrimonio” si debe sumar al neto.
+1. Alta con valor actual y moneda.
+2. **Titularidad:**
+   - **Persona(s):** podés marcar varias personas y repartir el % (ej. auto 50/50).
+   - **Empresa:** un solo dueño empresa (el % personal va por Participaciones).
+3. Marcalo “incluir en patrimonio” si debe sumar al neto.
+
+## Cuentas compartidas
+
+En **Cuentas** también podés compartir entre personas (mismo criterio de % que en activos).  
+Cada uno ve la cuenta en su ficha y suma solo su parte al patrimonio personal.
 
 ## Propiedades
 
@@ -21,10 +29,13 @@ Plata que te deben. Suman al activo si están marcados para patrimonio.
 
 Dos cosas en la misma pantalla:
 
-1. **Presupuestos pendientes** — total por persona/empresa (el detalle se liquida en Presupuestos).  
+1. **Presupuestos pendientes** — total por persona/empresa del **mes actual y atrasados** (el detalle se liquida en Presupuestos).  
 2. **Deudas y obligaciones** — préstamos, tarjetas, etc. (pasivos “clásicos”).
 
-Los pendientes de presupuesto **bajan el neto** hasta pagarlos u omitirlos.
+Los pendientes de presupuesto **bajan el neto** hasta pagarlos u omitirlos.  
+Los de meses **futuros** no cuentan todavía (aunque los veas en Presupuestos al adelantar el período).
+
+En las listas de patrimonio (cuentas, activos, propiedades, etc.) también ves **métricas y gráficos** arriba (totales, por tipo / por entidad, filtro de moneda).
 
 ## Inventario
 
@@ -41,7 +52,7 @@ Es el puente entre **empresa** y **patrimonio personal**.
 (con la lógica de consolidado o personal según la vista).
 
 Activos típicos: cuentas + activos varios + propiedades + cobrables + inventario (+ participaciones en vista personal).  
-Pasivos: deudas + presupuestos pendientes.
+Pasivos: deudas + presupuestos pendientes del mes actual/atrasados.
 
 ---
 
