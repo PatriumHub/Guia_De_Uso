@@ -52,4 +52,4 @@ No mueve saldos de cuentas: es planificación.
 
 ---
 
-← [Dashboard](06-dashboard-y-snapshots.md) · [Índice](README.md) · [WooCommerce](07-woocommerce-e-integraciones.md) →
+← [Dashboard](06-dashboard-y-snapshots.md) · [Índice](README.md) · [Objetivos](11-objetivos.md) →

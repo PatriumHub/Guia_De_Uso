@@ -67,6 +67,14 @@ El disponible neto ya **descuenta el ahorro** (balance − meta de ahorro).
 La **referencia ÷ 30** (promedio mensual ÷ 30) es solo orientativa en el gráfico.  
 Ver [Proyecciones](10-proyecciones.md).
 
+## ¿Qué es el menú Objetivos?
+
+**Objetivos fundamentales**:
+- **Milestones** (Cumplidos N/N): fondo ARS 1.200.000 a mano, deudas de todas las personas (auto), 15% del ingreso neto del año (meta auto + ahorrado a mano).  
+- **Tus objetivos** (Cumplidos N/N): listado; el alta es con **Agregar** en otra pantalla.  
+
+Ver [Objetivos](11-objetivos.md).
+
 ## ¿Qué muestran los % bajo los KPIs de Inicio / Dashboard?
 
 Segunda fila bajo neto, activos, pasivos y liquidez: cada valor como **% de los activos totales** (mismo denominador). En vista Liquidez las etiquetas se adaptan.

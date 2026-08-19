@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v1.9)
+# PatriumHub — Guía de uso (v2.1)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.
@@ -21,6 +21,7 @@ Pensalo así:
 | Plan personal de ingresos/egresos | Persona → **Proyecciones** |
 | Proyección de ingresos/costos | Empresa → **Estados y proyección** |
 | Vista de todas las planillas juntas | Menú **Proyecciones** |
+| Metas y milestones | Menú **Objetivos** |
 | Fichas de clientes (servicios) | Empresa → **Clientes** |
 | Tu usuario y permisos | **Configuración** (perfil / usuarios) |
 | Vista general | **Dashboard** e **Inicio** |
@@ -33,6 +34,7 @@ Pensalo así:
 |-------|----------------|
 | **Inicio** | Resumen rápido (+ % de cada KPI sobre activos) |
 | **Dashboard** | Gráficos, snapshots, evolución (+ % sobre activos) |
+| **Objetivos** | Objetivos fundamentales: milestones + metas (alta en otra vista) |
 | **Proyecciones** | Flujo, ahorro, carga de egresos y gasto diario máximo (solo lectura) |
 | **Patrimonio** ▾ | Personas, empresas, cuentas, activos, propiedades, cobrables, pasivos, inventario |
 | **Presupuestos** | Gastos del mes y liquidación |
@@ -51,10 +53,11 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 4. [Patrimonio (activos, pasivos, etc.)](04-patrimonio.md)  
 5. [Presupuestos](05-presupuestos.md)  
 6. [Dashboard y snapshots](06-dashboard-y-snapshots.md)  
-7. [Proyecciones consolidadas](10-proyecciones.md)  
-8. [WooCommerce e integraciones](07-woocommerce-e-integraciones.md)  
-9. [Configuración](08-configuracion.md)  
-10. [Preguntas frecuentes](09-preguntas-frecuentes.md)
+7. [Objetivos](11-objetivos.md)  
+8. [Proyecciones consolidadas](10-proyecciones.md)  
+9. [WooCommerce e integraciones](07-woocommerce-e-integraciones.md)  
+10. [Configuración](08-configuracion.md)  
+11. [Preguntas frecuentes](09-preguntas-frecuentes.md)
 
 ---
 
@@ -72,4 +75,4 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 
 ---
 
-*Versión 1.9 · PatriumHub*
+*Versión 2.1 · PatriumHub*
