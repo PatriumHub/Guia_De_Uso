@@ -25,6 +25,10 @@ Inmuebles u otros bienes raíces, con valuación y vínculo opcional a un pasivo
 
 Plata que te deben. Suman al activo si están marcados para patrimonio.
 
+- Listado general: ordená clicando las cabeceras (deudor, acreedor, pendiente, vence, estado).
+- En persona/empresa → pestaña **Cobrables**: ves también la **fecha de vencimiento** y podés ordenar igual.
+- Si agregás o cobrás desde la ficha de una persona/empresa, al guardar volvés a esa ficha (no al listado general).
+
 ## Pasivos
 
 Dos cosas en la misma pantalla:

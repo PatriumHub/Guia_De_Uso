@@ -32,6 +32,20 @@ En **Persona → Proyecciones** el bloque va **después de la planilla** y adem�
 - Anillo del año + leyenda con **cada egreso por nombre**, **ahorro** y **disponible neto**.
 - Mes a mes (mismos colores que el consolidado).
 - **Por categoría:** barras horizontales — nombre del egreso (línea de la planilla) y su % sobre los ingresos del año.
+- **Gasto diario máximo** debajo (mismo criterio que el consolidado).
+
+### Carga de egresos — ficha empresa
+
+En **Empresa → Estados y proyección**, al final de la pestaña (después del resumen):
+
+- Misma **carga de egresos** que en persona (anillo, mes a mes, por categoría de costo).
+- **Gasto diario máximo** (12 cards + gráfico; disponible neto ÷ días; ref. ÷ 30).
+
+### Año activo (persona y empresa)
+
+- Al abrir la planilla, el año por defecto es el **año calendario** (o el más cercano si no está cargado).
+- En empresa, el selector de **Comparativa por año** y las pills de **Detalle del año** comparten el mismo año: al cambiar uno, cambia el otro.
+- **+ Año** agrega el siguiente año numérico; **doble clic** en la pill para renombrar.
 
 ## Cómo cargar datos
 
@@ -46,7 +60,7 @@ No mueve saldos de cuentas: es planificación.
 - Si una persona incluye utilidades de empresas en su planilla, puede haber solapamiento con la planilla de la empresa: usá el alcance o mirá las tablas por entidad.  
 - **Ocultar cifras** también aplica acá.
 - La **carga de egresos** usa los egresos de la planilla de proyección, no los gastos fijos de Presupuestos.
-- El desglose **por categoría** solo aplica en la ficha de persona (usa los nombres de cada línea de egreso).
+- El desglose **por categoría** aplica en ficha de persona y de empresa (nombres de cada línea de egreso/costo).
 - El **gasto diario máximo** de cada card usa el **disponible neto de ese mes** (balance − ahorro) ÷ días 28/29/30/31. La línea ÷ 30 es solo referencia (promedio mensual ÷ 30).
 - En **carga de egresos**, el verde es el disponible neto (ya descontado el ahorro); el celeste es la meta de ahorro.
 

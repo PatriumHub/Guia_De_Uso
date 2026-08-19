@@ -40,7 +40,7 @@ Es esperado: editar importe/tipo/cuenta **recalcula** el saldo.
 
 ## ¿Puedo ordenar tablas?
 
-Sí, en Presupuestos, Cuentas y Movimientos: clic en el título de la columna.
+Sí: clic en el título de la columna. Aplica en Presupuestos, Cuentas, Movimientos y **Cobrables** (listado general y pestaña en persona/empresa).
 
 ## ¿Puedo compartir una cuenta entre dos personas?
 
@@ -82,6 +82,7 @@ Segunda fila bajo neto, activos, pasivos y liquidez: cada valor como **% de los 
 ## ¿Dónde cargo la proyección de clientes / costos de la empresa?
 
 En la empresa → pestaña **Estados y proyección**. Es planificación (no mueve saldos).  
+Arranca en el año calendario; Comparativa y Detalle van juntos. Al pie: carga de egresos y gasto diario.  
 Si la empresa es de **productos**, cargás solo el total de ingresos por mes (sin clientes). Ver [Personas y empresas](02-personas-y-empresas.md).
 
 ## ¿Dónde cargo contacto, contrato o docs de un cliente?
