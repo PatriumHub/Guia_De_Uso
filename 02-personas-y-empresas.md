@@ -18,6 +18,8 @@
 
 Tenés pestañas: Resumen, **Proyecciones**, Cuentas, Activos varios, Pasivos, Propiedades, Cobrables, Movimientos, Participaciones.
 
+En **Resumen** ves un recuadro **Proyección** del **año calendario en curso** (ingresos, egresos y balance de esa hoja). El 1° de enero pasa solo al año nuevo.
+
 Arriba podés **Capturar snapshot** solo de esa persona.
 
 ### Eliminar una persona

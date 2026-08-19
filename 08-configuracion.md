@@ -9,6 +9,8 @@ Disponible para todos los usuarios.
 - Cambiar **nombre** y **email** de login.
 - Cambiar **contraseña** (pedís la actual + la nueva dos veces).
 
+El **sol/luna** está en la barra de arriba (a la derecha del menú; en el celular, entre el nombre de la app y el menú de tres líneas). Cambia modo claro y oscuro. Se guarda en este navegador, no en tu usuario.
+
 ## Roles
 
 | Rol | Acceso |

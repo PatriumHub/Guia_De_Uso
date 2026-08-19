@@ -10,7 +10,9 @@
 
 1. Arriba a la derecha → clic en **tu nombre** → **Configuración**.
 2. Si vas a conectar **WooCommerce**, generá la **clave de cifrado** (una sola vez).
-3. Volvé a **Inicio** o al **Dashboard**.
+3. El **sol/luna** (junto al menú) cambia modo claro u oscuro; se guarda en este navegador.
+4. Si la pantalla es larga, al bajar aparece una **flecha** abajo a la derecha para volver arriba.
+5. Volvé a **Inicio** o al **Dashboard**.
 
 ## Flujo mínimo para “empezar a ver números”
 

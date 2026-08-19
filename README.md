@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v2.3)
+# PatriumHub — Guía de uso (v2.5)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.
@@ -41,7 +41,7 @@ Pensalo así:
 | **Movimientos** | Listado e edición de ingresos/egresos/transferencias |
 | **Tu nombre** ▾ | Configuración, Integraciones y salir |
 
-También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el teléfono, abrí el menú con el ícono de tres líneas.
+También podés **Ocultar cifras** (útil si alguien mira la pantalla) y cambiar **modo claro / oscuro** con el sol/luna a la derecha del menú. Si bajás en la página, aparece una **flecha abajo a la derecha** para volver arriba. En el teléfono, abrí el menú con el ícono de tres líneas.
 
 ---
 
@@ -75,4 +75,4 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla). En el te
 
 ---
 
-*Versión 2.1 · PatriumHub*
+*Versión 2.5 · PatriumHub*

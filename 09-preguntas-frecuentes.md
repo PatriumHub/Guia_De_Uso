@@ -106,6 +106,14 @@ No. Se elige solo al **crear** la empresa. Si te equivocaste, hay que crear otra
 
 En personal solo entra tu %. La diferencia suele ser la parte de empresas que no te pertenece (ej. el otro 50 % de Soup IT).
 
+## ¿Dónde está el modo oscuro?
+
+El botón **sol/luna** está en la barra de arriba, a la derecha del menú. En el teléfono queda entre el nombre de la app y el menú hamburguesa. El tema se guarda en este navegador. Ver [Configuración](08-configuracion.md).
+
+## ¿Cómo vuelvo arriba rápido?
+
+Cuando bajás en cualquier pantalla, aparece una **flecha verde** abajo a la derecha. Tocála y volvés al inicio de la página.
+
 ## ¿La app reemplaza a mi contador?
 
 No. Es una herramienta de **control patrimonial y liquidez** para vos. No es un sistema contable impositivo.
