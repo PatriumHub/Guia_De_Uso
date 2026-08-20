@@ -56,7 +56,7 @@ Sirven para registrar:
 
 1. **Nuevo movimiento**.
 2. Entidad, tipo, fecha, importe, cuenta (y destino si es transferencia).
-3. Categoría opcional (Sueldos, Honorarios, Servicios…).
+3. Categoría opcional. Hay varias de egreso listas: Comida, Salidas, Suscripciones, Limpieza, Higiene personal, Kiosco, Librería, Auto, Arreglos, Celular, Alquiler/es, más Sueldos / Honorarios / Impuestos / Servicios.
 4. Registrar.
 
 ### Editar un movimiento

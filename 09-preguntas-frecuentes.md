@@ -110,6 +110,15 @@ En personal solo entra tu %. La diferencia suele ser la parte de empresas que no
 
 El botón **sol/luna** está en la barra de arriba, a la derecha del menú. En el teléfono queda entre el nombre de la app y el menú hamburguesa. El tema se guarda en este navegador. Ver [Configuración](08-configuracion.md).
 
+## ¿Qué muestra el gráfico de categorías mes a mes en Gastos?
+
+Siempre los **12 meses del año** (el del cierre del filtro), en **barras horizontales** apiladas: cada color es una categoría (las 10 con más gasto; el resto en **Otros**).  
+Al pasar el mouse ves **monto** y **% de ese mes**. Ver [Gastos](12-gastos.md).
+
+## ¿Dónde analizo todos los gastos juntos?
+
+Menú **Gastos**: egresos reales del período, vs presupuesto y vs proyección. Podés filtrar todas, todas las personas, todas las empresas, o una entidad. Ver [Gastos](12-gastos.md).
+
 ## ¿Cómo vuelvo arriba rápido?
 
 Cuando bajás en cualquier pantalla, aparece una **flecha verde** abajo a la derecha. Tocála y volvés al inicio de la página.

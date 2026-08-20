@@ -11,6 +11,7 @@ Cosas que no son “cuenta de banco”: vehículos, equipos, inversiones, etc.
    - **Persona(s):** podés marcar varias personas y repartir el % (ej. auto 50/50).
    - **Empresa:** un solo dueño empresa (el % personal va por Participaciones).
 3. Marcalo “incluir en patrimonio” si debe sumar al neto.
+4. Desde el listado o la ficha podés **Eliminar** (rojo). Confirma: se borra el activo y sus co-titulares.
 
 ## Cuentas compartidas
 
