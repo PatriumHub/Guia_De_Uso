@@ -38,6 +38,11 @@ Todavía no hay snapshots por entidad. En el Dashboard usá **Capturar snapshot*
 
 Es esperado: editar importe/tipo/cuenta **recalcula** el saldo.
 
+## Quiero borrar un movimiento mal cargado
+
+En **Movimientos** → tachito rojo (o Editar → Eliminar movimiento).  
+Se recalculan los saldos. Si era un pago de presupuesto, ese gasto vuelve a pendiente.
+
 ## ¿Puedo ordenar tablas?
 
 Sí: clic en el título de la columna. Aplica en Presupuestos, Cuentas, Movimientos y **Cobrables** (listado general y pestaña en persona/empresa).

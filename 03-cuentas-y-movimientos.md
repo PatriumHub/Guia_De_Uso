@@ -56,15 +56,22 @@ Sirven para registrar:
 
 1. **Nuevo movimiento**.
 2. Entidad, tipo, fecha, importe, cuenta (y destino si es transferencia).
-3. Categoría opcional. Hay varias de egreso listas: Comida, Salidas, Suscripciones, Limpieza, Higiene personal, Kiosco, Librería, Auto, Arreglos, Celular, Alquiler/es, más Sueldos / Honorarios / Impuestos / Servicios.
+3. Categoría opcional. Hay varias de egreso listas: Comida, Salidas, Suscripciones, Limpieza, Higiene personal, Kiosco, Librería, Auto, Arreglos, Celular, Alquiler/es, Medicación & Farmacia, más Sueldos / Honorarios / Impuestos / Servicios.
 4. Registrar.
 
 ### Editar un movimiento
 
-En el listado → **Editar**.
+En el listado → icono de **lápiz** (Editar), o abrí el movimiento y guardá cambios.
 
 Podés cambiar **fecha, monto, tipo, cuentas, categoría, descripción**.  
 Si cambiás monto/tipo/cuentas, el sistema **revierte el efecto viejo** y aplica el nuevo sobre los saldos.
+
+### Eliminar un movimiento
+
+En el listado → icono de **tachito** (rojo), o al editar → **Eliminar movimiento**.
+
+Confirma: se **borra** el movimiento y se **recalculan los saldos** (se deshace el efecto en las cuentas).  
+Si era el egreso de un presupuesto pagado, ese ítem vuelve a **pendiente**.
 
 ### Ordenar movimientos
 
@@ -75,7 +82,7 @@ Ordena lo que ves en la página actual (hay paginación).
 
 - Si movés plata de banco a MP: usá **Transferencia** (no un egreso + un ingreso sueltos, salvo que quieras verlo así a propósito).
 - Los movimientos de “caja” desde la empresa también piden una **cuenta**.
-
+- En las tablas, las acciones son **iconos** (lápiz = editar, tachito = eliminar).
 ---
 
 ← [Personas y empresas](02-personas-y-empresas.md) · [Índice](README.md) · [Patrimonio](04-patrimonio.md) →

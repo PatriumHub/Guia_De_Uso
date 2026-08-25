@@ -1,4 +1,4 @@
-# PatriumHub — Guía de uso (v2.6)
+# PatriumHub — Guía de uso (v2.7)
 
 Manual simple para usar el sistema día a día.  
 No es documentación técnica: es **qué hacer** y **en qué orden**.

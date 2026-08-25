@@ -18,7 +18,7 @@ Si entrás a un mes **adelantado** (ej. septiembre estando en agosto), se genera
 ## Crear un gasto
 
 1. Presupuestos → **+ Gasto** (o desde Gastos agrupados).
-2. Entidad, nombre, monto (puede ser 0), día de vencimiento, cuenta sugerida.
+2. Entidad, nombre, monto (puede ser 0), día de vencimiento, **categoría** (opc., las mismas de Movimientos), cuenta sugerida.
 3. Se genera el ítem del mes actual.
 
 ## Mes actual (pantalla principal)
@@ -29,13 +29,15 @@ Si entrás a un mes **adelantado** (ej. septiembre estando en agosto), se genera
 
 ### Acciones por fila
 
+En la tabla las acciones son **iconos** (pasa el mouse para ver el nombre).
+
 | Estado | Qué podés hacer |
 |--------|------------------|
-| **Pendiente** | **Pagar** (rojo), Omitir, Eliminar |
-| **Pagado** | Revertir, Eliminar |
-| **Omitido** | Eliminar |
+| **Pendiente** | **Pagar** (amarillo), Omitir, Eliminar (rojo) |
+| **Pagado** | Revertir, Eliminar (rojo) |
+| **Omitido** | Eliminar (rojo) |
 
-- **Pagar**: elegís cuenta e importe → crea un **egreso** y deja de contar como pasivo.  
+- **Pagar**: elegís cuenta e importe → crea un **egreso** (con la categoría del gasto, si tiene) y deja de contar como pasivo.  
   Si el monto es 0, cierra sin movimiento.
 - **Omitir**: deja de contar como pasivo (no pagaste).
 - **Revertir**: deshace el pago (anula el egreso y vuelve a pendiente).
@@ -45,6 +47,7 @@ Si entrás a un mes **adelantado** (ej. septiembre estando en agosto), se genera
 
 Lista por entidad con totales.  
 En cada grupo ves la tabla (ordená con clic en los títulos), **Eliminar grupo**, y dos gráficos: **composición** y **ranking** (mayor a menor %).  
+Al cambiar **tema claro/oscuro**, los gráficos se actualizan solos (no hace falta recargar).  
 Ahí podés **editar** o **eliminar** un gasto del grupo (deja de regenerarse; los pagos ya hechos se mantienen).
 
 ## Relación con Pasivos
