@@ -24,7 +24,7 @@ Si ves un mes adelantado, es para planificar; el neto se actualiza cuando llegue
 
 ## Quiero un gasto de una sola vez
 
-Creá el gasto, usalo el mes que haga falta, y **Eliminar** (en el mes o en Gastos agrupados) para que no se regenere.
+Creá el gasto, usalo el mes que haga falta, y **Eliminar** (en el mes o en Presupuestos por grupos) para que no se regenere.
 
 ## No puedo borrar una cuenta
 
