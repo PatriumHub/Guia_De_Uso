@@ -22,6 +22,7 @@ Pensalo así:
 | Proyección de ingresos/costos | Empresa → **Estados y proyección** |
 | Vista de todas las planillas juntas | Menú **Proyecciones** |
 | Análisis de egresos | Menú **Gastos** |
+| Cierre mensual en PDF | Menú **Reporte** |
 | Metas y milestones | Menú **Objetivos** |
 | Fichas de clientes (servicios) | Empresa → **Clientes** |
 | Tu usuario y permisos | **Configuración** (perfil / usuarios) |
@@ -41,9 +42,10 @@ Pensalo así:
 | **Gastos** | Análisis de egresos (real vs presupuesto vs proyección) |
 | **Movimientos** | Listado e edición de ingresos/egresos/transferencias |
 | **Patrimonio** ▾ | Personas, empresas, cuentas, activos, propiedades, cobrables, pasivos, inventario (al final, resaltado en ámbar) |
+| **Reporte** | Cierre patrimonial de un mes, listo para PDF |
 | **Tu nombre** ▾ | Configuración, Integraciones y salir |
 
-También podés **Ocultar cifras** (útil si alguien mira la pantalla) y cambiar **modo claro / oscuro** con el sol/luna a la derecha del menú. Si bajás en la página, aparece una **flecha abajo a la derecha** para volver arriba. En el teléfono, abrí el menú con el ícono de tres líneas.
+A la derecha del todo tenés dos íconos juntos: el **ojito**, que oculta o muestra las cifras (útil si alguien mira la pantalla; tachado = ocultas), y el **sol/luna** para cambiar entre modo claro y oscuro. Si bajás en la página, aparece una **flecha abajo a la derecha** para volver arriba. En el teléfono, abrí el menú con el ícono de tres líneas.
 
 ---
 
@@ -58,9 +60,10 @@ También podés **Ocultar cifras** (útil si alguien mira la pantalla) y cambiar
 7. [Objetivos](11-objetivos.md)  
 8. [Proyecciones consolidadas](10-proyecciones.md)  
 9. [Gastos](12-gastos.md)  
-10. [WooCommerce e integraciones](07-woocommerce-e-integraciones.md)  
-11. [Configuración](08-configuracion.md)  
-12. [Preguntas frecuentes](09-preguntas-frecuentes.md)
+10. [Reporte patrimonial mensual](13-reporte-patrimonial.md)  
+11. [WooCommerce e integraciones](07-woocommerce-e-integraciones.md)  
+12. [Configuración](08-configuracion.md)  
+13. [Preguntas frecuentes](09-preguntas-frecuentes.md)
 
 ---
 
