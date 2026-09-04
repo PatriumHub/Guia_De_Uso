@@ -6,6 +6,8 @@
 2. Iniciá sesión con el usuario administrador.
 3. Vas a **Inicio**.
 
+La sesión dura **24 horas** desde la última vez que entraste: mientras vuelvas dentro de ese plazo, se renueva sola. Si pasás más de 24 h sin abrir la app, la próxima vez te pide login de nuevo. También podés cerrarla a mano (tu nombre → **Salir**).
+
 ## Primera configuración útil
 
 1. Arriba a la derecha → clic en **tu nombre** → **Configuración**.
